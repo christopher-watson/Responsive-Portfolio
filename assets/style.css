@@ -339,5 +339,8 @@ input[type=submit] {
   .work{
     width: 100%;
   }
-  
+ 
+  .container-header{
+    padding: 0;
+  }
 }
